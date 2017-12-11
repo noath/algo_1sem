@@ -1,0 +1,12 @@
+Debug/*
+Release/*
+*vs*
+googletest/*
+Melding_Heaps/*
+
+MeldingHeaps/Debug/*
+MeldingHeaps/Release/*
+
+Unit_test_for_heaps/Debug/*
+Unit_test_for_heaps/Release/*
+
