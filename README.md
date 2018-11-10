@@ -6,5 +6,7 @@ MIPT, algorithms and data structures, 1 semester
   * skew heap
   * binomial heap
 
-* Implemented deque
+
 * Implemented big integer
+* Implemented deque
+* Implemented class of algebraic permutations
